@@ -1,6 +1,6 @@
 # Terraform Command Cheat Sheet
 
-![Terraform_Command_CheatSheet.](terraform_command_cheatsheet.jpg.jpg "terraform commandcheatsheet")
+![Terraform_Command_CheatSheet.](terraform_command_cheatsheet.jpg "terraform commandcheatsheet")
 
 ## Initialize
 ```bash
