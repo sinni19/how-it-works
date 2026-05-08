@@ -1,5 +1,7 @@
 # Terraform Command Cheat Sheet
 
+![Terraform_Command_CheatSheet.](terraform_command_cheatsheat.jpg "Throughput and Latency")
+
 ## Initialize
 ```bash
 terraform init
